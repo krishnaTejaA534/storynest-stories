@@ -6,7 +6,7 @@
     "category": "Bedtime",
     "duration": 8,
     "rating": 4.9,
-    "coverImage": "",
+    "coverImage": "images/moon_rabbit/cover.png",
     "storyFile": "stories/moon_rabbit.txt"
   },
   {
@@ -16,7 +16,7 @@
     "category": "Animals",
     "duration": 10,
     "rating": 4.8,
-    "coverImage": "",
+    "coverImage": "images/brave_lion/cover.png",
     "storyFile": "stories/brave_lion.txt"
   },
   {
@@ -26,7 +26,7 @@
     "category": "Fantasy",
     "duration": 12,
     "rating": 4.9,
-    "coverImage": "",
+    "coverImage": "images/princess_stars/cover.png",
     "storyFile": "stories/princess_stars.txt"
   }
 ]

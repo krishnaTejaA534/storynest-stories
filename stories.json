@@ -1,1 +1,32 @@
-
+[
+  {
+    "id": "moon_rabbit",
+    "title": "The Little Moon Rabbit",
+    "subtitle": "A magical bedtime adventure",
+    "coverImage": "assets/covers/moon_rabbit.png",
+    "category": "Bedtime",
+    "duration": 8,
+    "rating": 4.9,
+    "storyUrl": "stories/moon_rabbit.txt"
+  },
+  {
+    "id": "brave_lion",
+    "title": "The Brave Little Lion",
+    "subtitle": "A journey of courage and friendship",
+    "coverImage": "assets/covers/brave_lion.png",
+    "category": "Animals",
+    "duration": 10,
+    "rating": 4.8,
+    "storyUrl": "stories/brave_lion.txt"
+  },
+  {
+    "id": "princess_stars",
+    "title": "Princess of the Stars",
+    "subtitle": "A magical journey through the night sky",
+    "coverImage": "assets/covers/princess_stars.png",
+    "category": "Fantasy",
+    "duration": 12,
+    "rating": 4.9,
+    "storyUrl": "stories/princess_stars.txt"
+  }
+]
